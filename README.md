@@ -1,6 +1,9 @@
 # Stellaris Mod Downloader
 
-This repository contains a tool to download and install in mods for non-Steam version of Stellaris.
+This repository contains a tool to download and install in mods for gog version of Stellaris.
+This script intends to automate instalation process for mods in gog version of Stellaris. 
+
+Script downloads mods provided in modlist.txt file and downloads them from steam workshop. Next step is to copy mod files to stellaris mod folder loceted in Documents folder and add descriptor.mod file with updated path so paradox launcher can recognise mods.
 
 ## Prerequisites
 
